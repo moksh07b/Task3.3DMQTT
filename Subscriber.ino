@@ -93,7 +93,6 @@ void Wave() {
   }
 }
 
-// Uncomment the following function if you want to handle the "Pat" command
 /*
 void Pat() { // Function to handle the "Pat" command: print "Pat" and blink the LED 5 times
   Serial.println("Pat");
